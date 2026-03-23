@@ -1,0 +1,36 @@
+{
+  "name": "green-corp-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page project for Green Corp",
+  "keywords": [
+    "landing-page",
+    "frontend",
+    "education",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "homepage": "https://github.com/yurshul/green-corp-landing#readme",
+  "bugs": {
+    "url": "https://github.com/yurshul/green-corp-landing/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yurshul/green-corp-landing.git"
+  },
+  "license": "ISC",
+  "author": "Yuriy Shulga",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@eslint/create-config": "^1.11.0",
+    "@eslint/css": "^1.0.0",
+    "@eslint/js": "^10.0.1",
+    "@stylistic/eslint-plugin": "^5.10.0",
+    "eslint": "^10.1.0",
+    "globals": "^17.4.0",
+    "live-server": "^1.2.2"
+  }
+}
